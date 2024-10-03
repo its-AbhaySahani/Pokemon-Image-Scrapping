@@ -1,0 +1,5 @@
+{
+    "0001": { "name": "Bulbasaur", "type": ["Grass", "Poison"] },
+    "0002": { "name": "Ivysaur", "type": ["Grass", "Poison"] },
+    "0200": { "name": "Misdreavus", "type": ["Ghost"] }
+}
